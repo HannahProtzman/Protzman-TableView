@@ -14,6 +14,7 @@
 		3D96D87A204639520057D907 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D96D878204639520057D907 /* LaunchScreen.storyboard */; };
 		3D96D885204639520057D907 /* Protzman_TableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D96D884204639520057D907 /* Protzman_TableViewTests.swift */; };
 		3D96D890204639520057D907 /* Protzman_TableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D96D88F204639520057D907 /* Protzman_TableViewUITests.swift */; };
+		3DEDD48C2048DECA00D3CDC6 /* CodeWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEDD48B2048DECA00D3CDC6 /* CodeWord.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D96D88B204639520057D907 /* Protzman-TableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Protzman-TableViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D96D88F204639520057D907 /* Protzman_TableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protzman_TableViewUITests.swift; sourceTree = "<group>"; };
 		3D96D891204639520057D907 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DEDD48B2048DECA00D3CDC6 /* CodeWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeWord.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				3D96D86F204639520057D907 /* AppDelegate.swift */,
+				3DEDD48B2048DECA00D3CDC6 /* CodeWord.swift */,
 				3D96D871204639520057D907 /* ViewController.swift */,
 				3D96D873204639520057D907 /* Main.storyboard */,
 				3D96D876204639520057D907 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 			files = (
 				3D96D872204639520057D907 /* ViewController.swift in Sources */,
 				3D96D870204639520057D907 /* AppDelegate.swift in Sources */,
+				3DEDD48C2048DECA00D3CDC6 /* CodeWord.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
